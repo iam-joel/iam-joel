@@ -10,8 +10,20 @@ I believe that collaboration and teamwork are essential for solving complex prob
 
 ## Get in Touch
 
-If you're interested in working with me, please don't hesitate to get in touch. I'm always open to new opportunities and challenges. I'd be thrilled to hear about your project and discuss how I can help.
+If you're interested in working with me, please don't hesitate to get in touch at [admin@joelcs.dev](mailto:admin@joelcs.dev) or visit my website at [joelcs.dev](https://joelcs.dev). I'm always open to new opportunities and challenges. I'd be thrilled to hear about your project and discuss how I can help.
 
 ## Thank You
 
 Thanks again for visiting my profile. I hope you've enjoyed your stay. Please feel free to connect with me on LinkedIn or Twitter. I'm looking forward to hearing from you soon!
+
+## Skills
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+![Joel's github stats](https://github-readme-stats.vercel.app/api?username=iam-joel&show_icons=true&hide_border=true&theme=dark)
+<!-- <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-joel&layout=compact&langs_count=8"/> -->
