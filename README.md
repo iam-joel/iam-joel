@@ -28,5 +28,5 @@ Thanks again for visiting my profile. I hope you've enjoyed your stay. Please fe
 ![Joel's github stats](https://github-readme-stats.vercel.app/api?username=iam-joel&show_icons=true&hide_border=true&theme=dark)
 <!-- <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-joel&layout=compact&langs_count=8"/> -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iam-joel.iam-joel)
+![Visitor Badge](https://komarev.com/ghpvc/?username=iam-joel)
 [![Profile last updated](https://img.shields.io/github/last-commit/iam-joel/iam-joel/main?label=Last%20updated&style=flat)](https://github.com/iam-joel/iam-joel/commits)
