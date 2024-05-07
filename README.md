@@ -10,7 +10,7 @@ I believe that collaboration and teamwork are essential for solving complex prob
 
 ## Get in Touch
 
-If you're interested in working with me, please don't hesitate to get in touch at [itsjoel@duck.com](mailto:itsjoel@duck.com) or visit my website at [iamjoel.dev](https://iamjoel.dev). I'm always open to new opportunities and challenges. I'd be thrilled to hear about your project and discuss how I can help.
+If you're interested in working with me, please don't hesitate to get in touch at [hi.new/joel](hi.new/joel) or visit my website at [iamjoel.dev](https://iamjoel.dev). I'm always open to new opportunities and challenges. I'd be thrilled to hear about your project and discuss how I can help.
 
 ## Thank You
 
