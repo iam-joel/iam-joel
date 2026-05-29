@@ -1,36 +1,74 @@
-# Welcome to my GitHub Profile!
+<h1 align="center">
+  <a href="https://joelcsaji.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=60&lines=Hey+there!+I'm+Joel" alt="Typing SVG" />
+  </a>
+</h1>
 
-## About Me
+<p align="center">
+  <em>Software Developer</em> &mdash; crafting things for the web with TypeScript, React & Next.js
+</p>
 
-Hello there, I'm Joel and I'm a Software Developer with a passion for web and mobile development. I'm thrilled that you've stopped by to learn more about me, check out my portfolio or just take a look around.
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Toronto%2C%20Canada-58A6FF?style=flat-square&logo=map-pin&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20years-58A6FF?style=flat-square&logo=code&logoColor=white" alt="Experience" />
+  <img src="https://img.shields.io/badge/Open%20to%20work-Yes-brightgreen?style=flat-square&logo=briefcase&logoColor=white" alt="Hireable" />
+  <a href="https://joelcsaji.com">
+    <img src="https://img.shields.io/badge/Website-joelcsaji.com-58A6FF?style=flat-square&logo=globe&logoColor=white" alt="Website" />
+  </a>
+</p>
 
-I have more than 3 years of experience in Web Development, and I believe in the importance of staying up-to-date with the latest advancements in technology. I'm constantly seeking opportunities to learn and grow as a developer, and I'm excited to be a part of this ever-evolving field.
+---
 
-I believe that collaboration and teamwork are essential for solving complex problems. Whether it's working with clients or colleagues, I'm committed to delivering the best possible work. I also believe in being proactive and taking a hands-on approach to problem-solving. I'm committed to learning and growing as a developer, and I'm always excited to take on new and exciting projects.
+### a little about me
 
-## Get in Touch
+```typescript
+const joel = {
+  location: "Toronto, Canada",
+  languages: ["TypeScript", "JavaScript", "Python", "Dart", "Shell"],
+  frameworks: ["React", "Next.js", "Astro", "Flutter", "Node.js"],
+  interests: ["web technologies", "content creation", "faith", "graphic design"],
+  currentlyLearning: "always something new",
+};
+```
 
-If you're interested in working with me, visit my website at [joelcsaji.com](https://joelcsaji.com). I'm always open to new opportunities and challenges. I'd be thrilled to hear about your project and discuss how I can help.
+---
 
-## Thank You
+### tech stack
 
-Thanks again for visiting my profile. I hope you've enjoyed your stay. Please feel free to connect with me. I'm looking forward to hearing from you soon!
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,nodejs,python,dart,flutter,tailwind,git,bash,github,vscode&perline=7&theme=dark" alt="Tech Stack" />
+</p>
 
-## Skills
+---
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+### github stats
 
-<!-- ## Stats
-![Joel's github stats](https://github-readme-stats.vercel.app/api?username=iam-joel&show_icons=true&hide_border=true&theme=dark) -->
-<!-- <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-joel&layout=compact&langs_count=8"/> -->
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=iam-joel&show_icons=true&hide_border=true&theme=github_dark&hide_title=false&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=iam-joel&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-joel&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</p>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=iam-joel)
-[![Profile last updated](https://img.shields.io/github/last-commit/iam-joel/iam-joel/main?label=Last%20updated&style=flat)](https://github.com/iam-joel/iam-joel/commits)
+---
+
+### contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iam-joel/iam-joel/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iam-joel/iam-joel/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/iam-joel/iam-joel/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iam-joel&style=flat-square&color=58A6FF" alt="Visitors" />
+  <img src="https://img.shields.io/github/last-commit/iam-joel/iam-joel/main?style=flat-square&label=Last%20updated&color=58A6FF" alt="Last updated" />
+</p>
+
+<p align="center">
+  <i>&ldquo;Code is like humor. When you have to explain it, it&rsquo;s bad.&rdquo;</i><br />
+  <b>&mdash; Cory House</b>
+</p>
