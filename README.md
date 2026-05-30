@@ -44,9 +44,9 @@ const joel = {
 ### github stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=iam-joel&show_icons=true&hide_border=true&theme=github_dark&hide_title=false&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.jetshow.app/api?username=iam-joel&show_icons=true&hide_border=true&theme=github_dark&hide_title=false&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" />
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=iam-joel&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-joel&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img height="170em" src="https://github-readme-stats.jetshow.app/api/top-langs/?username=iam-joel&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 ---
