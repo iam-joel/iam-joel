@@ -1,0 +1,6 @@
+# Default ownership for repository changes.
+* @iam-joel
+
+# Keep repository automation and ownership rules reviewed.
+/.github/ @iam-joel
+/.github/CODEOWNERS @iam-joel
