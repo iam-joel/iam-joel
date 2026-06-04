@@ -21,13 +21,13 @@
 
 <p align="center">
   <a href="https://github.com/iam-joel?tab=followers">
-    <img src="https://img.shields.io/github/followers/iam-joel?style=flat-square&logo=github&label=Followers&color=58A6FF" alt="GitHub followers" />
+    <img src="https://img.shields.io/badge/Follow-@iam--joel-58A6FF?style=flat-square&logo=github&logoColor=white" alt="Follow iam-joel on GitHub" />
   </a>
   <a href="https://github.com/iam-joel?tab=repositories">
-    <img src="https://img.shields.io/github/stars/iam-joel?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&label=Stars&color=58A6FF" alt="GitHub stars" />
+    <img src="https://img.shields.io/badge/Repositories-Public%20work-58A6FF?style=flat-square&logo=github&logoColor=white" alt="Public GitHub repositories" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=iam-joel&style=flat-square&color=58A6FF" alt="Profile views" />
-  <img src="https://img.shields.io/github/last-commit/iam-joel/iam-joel/main?style=flat-square&label=Last%20updated&color=58A6FF" alt="Last updated" />
+  <img src="https://img.shields.io/badge/README-Refreshed%20Jun%202026-58A6FF?style=flat-square&logo=markdown&logoColor=white" alt="README refreshed in June 2026" />
 </p>
 
 ---
