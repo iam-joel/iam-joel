@@ -1,20 +1,33 @@
 <h1 align="center">
   <a href="https://joelcsaji.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=60&lines=Hey+there!+I'm+Joel" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=64&lines=Hey+there!+I'm+Joel" alt="Hey there! I'm Joel" />
   </a>
 </h1>
 
 <p align="center">
-  <em>Software Developer</em> &mdash; crafting things for the web with TypeScript, React & Next.js
+  <strong>Software Developer</strong> in Toronto building polished web apps, useful tools, and calm developer workflows.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Toronto%2C%20Canada-58A6FF?style=flat-square&logo=map-pin&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Experience-5%2B%20years-58A6FF?style=flat-square&logo=code&logoColor=white" alt="Experience" />
-  <img src="https://img.shields.io/badge/Open%20to%20work-Yes-brightgreen?style=flat-square&logo=briefcase&logoColor=white" alt="Hireable" />
   <a href="https://joelcsaji.com">
-    <img src="https://img.shields.io/badge/Website-joelcsaji.com-58A6FF?style=flat-square&logo=globe&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-joelcsaji.com-58A6FF?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://github.com/iam-joel">
+    <img src="https://img.shields.io/badge/GitHub-iam--joel-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-58A6FF?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open source contributor" />
+  <img src="https://img.shields.io/badge/Open%20to%20work-Yes-2EA043?style=flat-square&logo=briefcase&logoColor=white" alt="Open to work" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/iam-joel?tab=followers">
+    <img src="https://img.shields.io/github/followers/iam-joel?style=flat-square&logo=github&label=Followers&color=58A6FF" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/iam-joel?tab=repositories">
+    <img src="https://img.shields.io/github/stars/iam-joel?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&label=Stars&color=58A6FF" alt="GitHub stars" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=iam-joel&style=flat-square&color=58A6FF" alt="Profile views" />
+  <img src="https://img.shields.io/github/last-commit/iam-joel/iam-joel/main?style=flat-square&label=Last%20updated&color=58A6FF" alt="Last updated" />
 </p>
 
 ---
@@ -45,42 +58,34 @@ const joel = {
 
 ---
 
+### open source
+
+I like contributions that leave a project easier to use: clearer docs, reproducible fixes, polished UI, and small workflow improvements that help maintainers move with less friction.
+
+| contribution focus | how i try to help |
+| --- | --- |
+| Docs and onboarding | Clear READMEs, setup notes, and examples that make projects easier to adopt |
+| UI quality | Accessible React interfaces, responsive layouts, and interaction polish |
+| Developer experience | Scripts, automation, and tidy workflows that make repeated work simpler |
+| Maintenance | Focused fixes, helpful review notes, and small improvements that are easy to merge |
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iam-joel&theme=github_dark" alt="Public GitHub contribution summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-joel&theme=github-compact&hide_border=true&area=true&custom_title=Open%20Source%20Contribution%20Graph" alt="Open source contribution graph" />
+</p>
+
+---
+
 ### tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,nodejs,python,dart,flutter,tailwind,git,bash,github,vscode&perline=7&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,nodejs,python,dart,flutter,tailwind,git,bash,github,vscode&perline=7&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Astro, Node.js, Python, Dart, Flutter, Tailwind CSS, Git, Bash, GitHub, and VS Code" />
 </p>
 
 ---
-
-### github stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iam-joel&theme=github_dark" alt="Public GitHub activity summary" />
-</p>
-
-<p align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=iam-joel&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555" alt="Public GitHub contribution streak" />
-</p>
-
----
-
-### contribution snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iam-joel/iam-joel/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iam-joel/iam-joel/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/iam-joel/iam-joel/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iam-joel&style=flat-square&color=58A6FF" alt="Visitors" />
-  <img src="https://img.shields.io/github/last-commit/iam-joel/iam-joel/main?style=flat-square&label=Last%20updated&color=58A6FF" alt="Last updated" />
-</p>
 
 <p align="center">
   <i>&ldquo;Code is like humor. When you have to explain it, it&rsquo;s bad.&rdquo;</i><br />
