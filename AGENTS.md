@@ -1,27 +1,39 @@
-# AGENTS.md
+# iam-joel
 
-Guidance for coding agents (Claude Code reads this via the CLAUDE.md symlink) working in this repository.
+Agent notes for the `iam-joel` GitHub profile README repo. Claude Code
+reads this file through the `CLAUDE.md` symlink. Do not keep a second copy.
 
 ## What this repo is
 
-`iam-joel/iam-joel` is a GitHub profile README repo: because the repo name
-matches the owner's username, GitHub renders `README.md` on
-`github.com/iam-joel`. There is no application code, no build tooling, and
-no CI — just `README.md` and `.github/CODEOWNERS`.
+`iam-joel/iam-joel` is not an app, a site, a package, or a starter. GitHub
+renders `README.md` on https://github.com/iam-joel because the repo name
+matches the username. There is no application code, no `package.json`, no
+lockfile, no `src/` tree, no tests, and no CI.
+
+Tracked files:
+
+- `README.md` is the only content file. Bio, badges, typing SVG, skill
+  icons, stats widgets. That is what visitors see on the profile page.
+- `.github/CODEOWNERS` is review ownership for `@iam-joel`.
+- `AGENTS.md` and the `CLAUDE.md` symlink are these notes.
 
 ## Commands
 
-None. There is nothing to install, build, lint, or test.
+None. There is nothing to install, build, lint, or test. Do not add a
+package manager or a CI workflow to fill that gap.
 
 ## Conventions
 
-- `README.md` is profile-facing content (bio, badges, tech stack, stats
-  widgets) rendered on the GitHub profile page — not developer docs.
-- Keep edits to `README.md` limited to content changes (bio text, links,
-  badges, stack list); don't add project scaffolding.
+- Edit `README.md` for profile presentation: bio text, links, badges,
+  centered HTML, the typing SVG, skill icons, stats widgets.
+- Keep the existing HTML and Markdown mix. Small visual-friendly edits
+  beat a rewrite.
+- Do not replace the profile README with a plain docs layout.
 
 ## What not to touch
 
-- Do not add package.json, CI workflows, or other project tooling — this
-  repo is intentionally content-only.
-- `.github/CODEOWNERS` sets review ownership; leave it as-is unless asked.
+- Do not add `package.json`, lockfiles, `src/`, app scaffolding, or
+  GitHub Actions. This repo is content-only on purpose.
+- Do not add extra docs, nested `AGENTS.md` files, or Copilot, Cursor, or
+  Gemini twins of these notes.
+- Leave `.github/CODEOWNERS` as-is unless asked.
