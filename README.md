@@ -1,11 +1,14 @@
-<h1 align="center">
-  <a href="https://joelcsaji.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=64&lines=Hey+there!+I'm+Joel" alt="Hey there! I'm Joel" />
-  </a>
-</h1>
+<h1 align="center">Joel Saji</h1>
 
 <p align="center">
-  <strong>Software Developer</strong> in Toronto building polished web apps, useful tools, and calm developer workflows.
+  <strong>Software developer in Toronto</strong> building polished web apps, useful tools,
+  and calm developer workflows. TypeScript, React, Next.js, and TanStack Start.
+</p>
+
+<p align="center">
+  <a href="https://joelcsaji.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=56&lines=Hey+there!+I'm+Joel" alt="Hey there! I'm Joel" />
+  </a>
 </p>
 
 <p align="center">
@@ -27,7 +30,7 @@
     <img src="https://img.shields.io/badge/Repositories-Public%20work-58A6FF?style=flat-square&logo=github&logoColor=white" alt="Public GitHub repositories" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=iam-joel&style=flat-square&color=58A6FF" alt="Profile views" />
-  <img src="https://img.shields.io/badge/README-Refreshed%20Jun%202026-58A6FF?style=flat-square&logo=markdown&logoColor=white" alt="README refreshed in June 2026" />
+  <img src="https://img.shields.io/badge/README-Refreshed%20Sep%202026-58A6FF?style=flat-square&logo=markdown&logoColor=white" alt="README refreshed in September 2026" />
 </p>
 
 ---
