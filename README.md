@@ -7,16 +7,16 @@
 
 <p align="center">
   <a href="https://joelcsaji.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=56&lines=Hey+there!+I'm+Joel" alt="Hey there! I'm Joel" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=false&width=560&height=56&lines=Hey+there!+I'm+Joel" alt="Hey there! I'm Joel. Visit my portfolio at joelcsaji.com" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://joelcsaji.com">
-    <img src="https://img.shields.io/badge/Portfolio-joelcsaji.com-58A6FF?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-joelcsaji.com-58A6FF?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio: joelcsaji.com" />
   </a>
   <a href="https://github.com/iam-joel">
-    <img src="https://img.shields.io/badge/GitHub-iam--joel-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-iam--joel-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile: iam-joel" />
   </a>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-58A6FF?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open source contributor" />
   <img src="https://img.shields.io/badge/Open%20to%20work-Yes-2EA043?style=flat-square&logo=briefcase&logoColor=white" alt="Open to work" />
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Repositories-Public%20work-58A6FF?style=flat-square&logo=github&logoColor=white" alt="Public GitHub repositories" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=iam-joel&style=flat-square&color=58A6FF" alt="Profile views" />
-  <img src="https://img.shields.io/badge/README-Refreshed%20Sep%202026-58A6FF?style=flat-square&logo=markdown&logoColor=white" alt="README refreshed in September 2026" />
+  <img src="https://img.shields.io/badge/README-Refreshed%20Oct%202026-58A6FF?style=flat-square&logo=markdown&logoColor=white" alt="README refreshed in October 2026" />
 </p>
 
 ---
@@ -74,10 +74,6 @@ I like contributions that leave a project easier to use: clearer docs, reproduci
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iam-joel&theme=github_dark" alt="Public GitHub contribution summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-joel&theme=github-compact&hide_border=true&area=true&custom_title=Open%20Source%20Contribution%20Graph" alt="Open source contribution graph" />
 </p>
 
 ---
