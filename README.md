@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Repositories-Public%20work-58A6FF?style=flat-square&logo=github&logoColor=white" alt="Public GitHub repositories" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=iam-joel&style=flat-square&color=58A6FF" alt="Profile views" />
-  <img src="https://img.shields.io/badge/README-Refreshed%20Sep%202026-58A6FF?style=flat-square&logo=markdown&logoColor=white" alt="README refreshed in September 2026" />
+  <img src="https://img.shields.io/badge/README-Refreshed%20Oct%202026-58A6FF?style=flat-square&logo=markdown&logoColor=white" alt="README refreshed in October 2026" />
 </p>
 
 ---
@@ -74,10 +74,6 @@ I like contributions that leave a project easier to use: clearer docs, reproduci
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iam-joel&theme=github_dark" alt="Public GitHub contribution summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-joel&theme=github-compact&hide_border=true&area=true&custom_title=Open%20Source%20Contribution%20Graph" alt="Open source contribution graph" />
 </p>
 
 ---
