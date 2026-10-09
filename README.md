@@ -13,10 +13,10 @@
 
 <p align="center">
   <a href="https://joelcsaji.com">
-    <img src="https://img.shields.io/badge/Portfolio-joelcsaji.com-58A6FF?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-joelcsaji.com-58A6FF?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio: joelcsaji.com" />
   </a>
   <a href="https://github.com/iam-joel">
-    <img src="https://img.shields.io/badge/GitHub-iam--joel-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-iam--joel-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile: iam-joel" />
   </a>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-58A6FF?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open source contributor" />
   <img src="https://img.shields.io/badge/Open%20to%20work-Yes-2EA043?style=flat-square&logo=briefcase&logoColor=white" alt="Open to work" />
