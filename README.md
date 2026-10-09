@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://joelcsaji.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=56&lines=Hey+there!+I'm+Joel" alt="Hey there! I'm Joel" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=false&width=560&height=56&lines=Hey+there!+I'm+Joel" alt="Hey there! I'm Joel. Visit my portfolio at joelcsaji.com" />
   </a>
 </p>
 
